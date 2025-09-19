@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel Booking System Database
 
 ## 📌 Project Overview
