@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a relational database management system (DBMS) designed for a **Hotel Booking System**.  
-It was implemented in **MySQL** as part of the COM 310 assignment.  
+It was implemented in **MySQL**.  
 
 The database models the core operations of a hotel, including:
 - Managing guests
@@ -62,7 +62,7 @@ The database includes example data:
 1. Open MySQL and create the database:
    ```sql
    source hotel_booking.sql;
-   
+
 2. Run queries to explore:
 SELECT * FROM Guest;
 SELECT * FROM Booking;
