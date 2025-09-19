@@ -65,6 +65,6 @@ The database includes example data:
    source hotel_booking.sql;
 
 2. Run queries to explore:
-SELECT * FROM Guest;
-SELECT * FROM Booking;
-SELECT * FROM Room;
+   -SELECT * FROM Guest;
+   -SELECT * FROM Booking;
+   -SELECT * FROM Room;
